@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+section {
+    text-align: center;
+    background-color: rgb(230, 228, 228);
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+}
+#p1 {
+    text-decoration: underline;
+    font-size: 14px;
+}
+#p2 {
+    line-height: 1.8;
+    color: gray;
+}
+span {
+    color: red;
+    font-size: 12px;
+}
+a { /* 취소선 a:visited로 넣으려고 했는데 적용 안됩니다.. */
+    font-size: 18px;
+    text-decoration: none;
+    text-decoration: line-through;
+    background-color: brown; 
+    color: #fff;
+}
+h2 {
+    text-align: center;
+    color: rgb(39, 129, 145);
+    text-decoration: underline;
+}
+h3 {
+    background-color: rgb(39, 129, 145);
+    text-align: right;
+    color: #fff;
+}
+.li1 {
+    background-color: orange;
+}
+#h3a {
+    text-align: justify;
+    background-color: #fff;
+    color: #000;
+}
